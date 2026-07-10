@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-lura-black: #0a0a0a;
+  --color-lura-charcoal: #1a1a2e;
+  --color-lura-blue: #16213e;
+  --color-lura-gold: #c9a84c;
+  --color-lura-sand: #f5f0e8;
+  --color-lura-stone: #8b8b83;
+  --font-lura: 'Inter', system-ui, sans-serif;
+  --font-display: 'Playfair Display', serif;
+}
