@@ -3,3 +3,6 @@ dist
 .git
 *.log
 .DS_Store
+# Large binary files - uploaded separately
+public/*.jpg
+public/products/*.jpg
